@@ -46,7 +46,7 @@
 | ------ | ---------------------------------------------- |
 | GET    | `http://localhost:{PortNumber}/posts`          |
 | GET    | `http://localhost:{PortNumber}/posts/{postID}` |
-| POST   | `http://localhost:{PortNumber}/posts`          |
+| POST   | `http://localhost:{PortNumber}/posts/{userId}` |
 | PUT    | `http://localhost:{PortNumber}/posts/{postID}` |
 
 ### LIKE
