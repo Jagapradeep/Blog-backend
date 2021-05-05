@@ -1,0 +1,4 @@
+{
+    "db": "Blog_db",
+    "jwtPrivateKey": "Blog_jwtPrivateKey"
+}
