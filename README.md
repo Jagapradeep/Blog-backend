@@ -22,6 +22,7 @@
 - Run `npm i` to download all required node modules.
 - At last run `node index.js`.
 - If node is not installed in your system install it.
+- The `post` routes of post, like and comment modules should be provided with authentication token in the header of the request.
 
 ## API ENDPOINTS
 
